@@ -10,7 +10,7 @@ Lover of Technology and coding :heart:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
 square&logo=Github&logoColor=white&link=https://github.com/RabeloDev7)]
 
-(https://github.com/Lucasdfg07)
+(https://github.com/RabeloDev7)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
 square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardorabeloms
