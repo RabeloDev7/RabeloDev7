@@ -2,8 +2,8 @@
 <img align="right" width="400" height="400"
 src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 # Welcome!
-## I'm Lucas! Let me present a little about myself :D
-Full-Stack focused in Ruby on Rails | Software engineer :robot:
+## I'm Leonardo! Let me present a little about myself :D
+Back-end focused in Java, Python on Rails | Software engineer :robot:
 Lover of Technology and coding :heart:
 ## About me
 
