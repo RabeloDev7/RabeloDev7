@@ -2,7 +2,9 @@
 
 ###
 
-<h1 align="left">Welcome!</h1>
+<h1 align="left">Welcome!</h1>   
+<img align="right" width="400" height="400"
+src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
 ###
 
