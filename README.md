@@ -1,6 +1,3 @@
-## Hi there 👋
-<img align="right" width="400" height="400"
-src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 <h2 align="left">Hi there👋</h2>
 
 ###
@@ -41,8 +38,6 @@ src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -56,6 +51,7 @@ src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+###
 ###
 - Thanks for visiting.
 - Enjoy it!! o/
