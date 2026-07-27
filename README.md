@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋</h2>
 
-<img align="right" width="400" height="400"
+<img align="right" width="350" height="350"
 src="./assets/download.gif">
 
 ###
