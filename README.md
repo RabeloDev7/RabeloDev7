@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋</h2>
 
 <img align="right" width="400" height="400"
-src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+src="./assets/download.gif">
 
 ###
 
