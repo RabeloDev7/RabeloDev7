@@ -1,11 +1,11 @@
-<h2 align="left">Hi there 👋</h2>
+<p><strong>Hi there 👋</strong></p>
 
 <img align="right" width="350" height="350"
 src="./assets/download.gif">
 
-<h1 align="left">Welcome!</h1>
+<p><strong>Welcome!</strong></p>
 
-<h3 align="left">I'm Leonardo! Let me tell you a little about myself :D</h3>
+<p><strong>I'm Leonardo! Let me tell you a little about myself :D</strong></p>
 
 <p>
   🎓 Software Engineering student focused on Back-end Development<br>
@@ -29,7 +29,7 @@ src="./assets/download.gif">
   <a href="https://www.linkedin.com/in/leonardorabeloms" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-
+  
   <a href="mailto:leonardorabelo1910@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
