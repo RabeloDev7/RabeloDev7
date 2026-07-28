@@ -1,21 +1,36 @@
-<h2 align="left">Hi there 👋</h2>
-
-<img align="right" width="350" height="350"
-src="./assets/download.gif">
-
-<h1 align="left">Welcome!</h1>
-
-<h3 align="left">I'm Leonardo! Let me tell you a little about myself :D</h3>
-
 <p>
-  🎓 Software Engineering student focused on Back-end Development<br>
-  ☕ Java | 🚀 Spring Boot | 🔐 Spring Security & JWT | 🗄️ SQL<br>
-  💻 Building projects, learning every day, and growing as a Back-end Developer.
+  <strong>Hi there 👋</strong>
 </p>
 
-<br clear="right">
+<table>
+  <tr>
+    <td valign="top">
 
-<h2>About me</h2>
+      <p>
+        <big><big><strong>Welcome!</strong></big></big>
+      </p>
+
+      <p>
+        <strong>I'm Leonardo! Let me tell you a little about myself :D</strong>
+      </p>
+
+      <p>
+        🎓 Software Engineering student focused on Back-end Development<br>
+        ☕ Java | 🚀 Spring Boot | 🔐 Spring Security & JWT | 🗄️ SQL<br>
+        💻 Building projects, learning every day, and growing as a Back-end Developer.
+      </p>
+
+    </td>
+
+    <td>
+      <img width="350" height="350" src="./assets/download.gif">
+    </td>
+  </tr>
+</table>
+
+<p>
+  <strong>About me</strong>
+</p>
 
 <p>
   I'm currently studying Software Engineering and focusing on Back-end Development with Java and Spring Boot.
@@ -35,7 +50,9 @@ src="./assets/download.gif">
   </a>
 </div>
 
-<h2>☕ Java & Spring Boot</h2>
+<p>
+  <strong>☕ Java & Spring Boot</strong>
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -56,9 +73,13 @@ src="./assets/download.gif">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij idea logo" />
 </div>
 
-<h2>🚀 Featured Project</h2>
+<p>
+  <strong>🚀 Featured Project</strong>
+</p>
 
-<h3>💳 BankAPI</h3>
+<p>
+  <strong>💳 BankAPI</strong>
+</p>
 
 <p>
   RESTful banking system built with Java 21 and Spring Boot 3, featuring JWT authentication, bank account management, transfers, PIX payments, transaction history, unit testing, and CI with GitHub Actions.
